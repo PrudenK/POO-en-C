@@ -1,0 +1,5 @@
+cmake-build-debug/ linguist-vendored
+CMakeFiles/ linguist-generated
+CMakeLists.txt linguist-generated
+*.cmake linguist-generated
+Testing/ linguist-vendored
