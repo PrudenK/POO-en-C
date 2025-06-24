@@ -1,0 +1,3 @@
+/home/pruden/CLionProjects/Formas/CMakeFiles/Formas.dir
+/home/pruden/CLionProjects/Formas/CMakeFiles/edit_cache.dir
+/home/pruden/CLionProjects/Formas/CMakeFiles/rebuild_cache.dir
