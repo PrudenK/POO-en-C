@@ -19,4 +19,6 @@ add_executable(Formas
         formas/triangulo_equi.h
         formas/circunferencia.c
         formas/circunferencia.h
+        opciones_menu/opciones_menu_principal.c
+        opciones_menu/opciones_menu_principal.h
 )

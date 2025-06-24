@@ -85,12 +85,12 @@ clean: CMakeFiles/Formas.dir/clean
 CMakeFiles/Formas.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pruden/CLionProjects/Formas/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target Formas"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pruden/CLionProjects/Formas/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target Formas"
 .PHONY : CMakeFiles/Formas.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Formas.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/pruden/CLionProjects/Formas/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/pruden/CLionProjects/Formas/CMakeFiles 8
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Formas.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/pruden/CLionProjects/Formas/CMakeFiles 0
 .PHONY : CMakeFiles/Formas.dir/rule
@@ -102,7 +102,7 @@ Formas: CMakeFiles/Formas.dir/rule
 # codegen rule for target.
 CMakeFiles/Formas.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pruden/CLionProjects/Formas/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Finished codegen for target Formas"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pruden/CLionProjects/Formas/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Finished codegen for target Formas"
 .PHONY : CMakeFiles/Formas.dir/codegen
 
 # clean rule for target.

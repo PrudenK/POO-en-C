@@ -280,6 +280,30 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/main.c.s
 .PHONY : main.c.s
 
+opciones_menu/opciones_menu_principal.o: opciones_menu/opciones_menu_principal.c.o
+.PHONY : opciones_menu/opciones_menu_principal.o
+
+# target to build an object file
+opciones_menu/opciones_menu_principal.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o
+.PHONY : opciones_menu/opciones_menu_principal.c.o
+
+opciones_menu/opciones_menu_principal.i: opciones_menu/opciones_menu_principal.c.i
+.PHONY : opciones_menu/opciones_menu_principal.i
+
+# target to preprocess a source file
+opciones_menu/opciones_menu_principal.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.i
+.PHONY : opciones_menu/opciones_menu_principal.c.i
+
+opciones_menu/opciones_menu_principal.s: opciones_menu/opciones_menu_principal.c.s
+.PHONY : opciones_menu/opciones_menu_principal.s
+
+# target to generate assembly for a file
+opciones_menu/opciones_menu_principal.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Formas.dir/build.make CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.s
+.PHONY : opciones_menu/opciones_menu_principal.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -308,6 +332,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... opciones_menu/opciones_menu_principal.o"
+	@echo "... opciones_menu/opciones_menu_principal.i"
+	@echo "... opciones_menu/opciones_menu_principal.s"
 .PHONY : help
 
 

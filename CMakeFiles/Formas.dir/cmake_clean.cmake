@@ -12,6 +12,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Formas.dir/formas/triangulo_equi.c.o.d"
   "CMakeFiles/Formas.dir/main.c.o"
   "CMakeFiles/Formas.dir/main.c.o.d"
+  "CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o"
+  "CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o.d"
   "Formas"
   "Formas.pdb"
 )

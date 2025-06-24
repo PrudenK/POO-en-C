@@ -8,6 +8,7 @@ Formas: \
   CMakeFiles/Formas.dir/formas/cuadrado.c.o \
   CMakeFiles/Formas.dir/formas/triangulo_equi.c.o \
   CMakeFiles/Formas.dir/formas/circunferencia.c.o \
+  CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o \
   /usr/lib/gcc/x86_64-linux-gnu/13/libgcc.a \
   /usr/lib/gcc/x86_64-linux-gnu/13/libgcc_s.so \
   /usr/lib/gcc/x86_64-linux-gnu/13/libgcc_s.so \
@@ -47,6 +48,8 @@ CMakeFiles/Formas.dir/formas/cuadrado.c.o:
 CMakeFiles/Formas.dir/formas/triangulo_equi.c.o:
 
 CMakeFiles/Formas.dir/formas/circunferencia.c.o:
+
+CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o:
 
 /usr/lib/gcc/x86_64-linux-gnu/13/libgcc.a:
 

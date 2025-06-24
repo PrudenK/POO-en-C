@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/pruden/CLionProjects/Formas/formas/pentagono.c" "CMakeFiles/Formas.dir/formas/pentagono.c.o" "gcc" "CMakeFiles/Formas.dir/formas/pentagono.c.o.d"
   "/home/pruden/CLionProjects/Formas/formas/triangulo_equi.c" "CMakeFiles/Formas.dir/formas/triangulo_equi.c.o" "gcc" "CMakeFiles/Formas.dir/formas/triangulo_equi.c.o.d"
   "/home/pruden/CLionProjects/Formas/main.c" "CMakeFiles/Formas.dir/main.c.o" "gcc" "CMakeFiles/Formas.dir/main.c.o.d"
+  "/home/pruden/CLionProjects/Formas/opciones_menu/opciones_menu_principal.c" "CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o" "gcc" "CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o.d"
   "" "Formas" "gcc" "CMakeFiles/Formas.dir/link.d"
   )
 

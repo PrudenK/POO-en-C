@@ -1,5 +1,8 @@
-CMakeFiles/Formas.dir/main.c.o: /home/pruden/CLionProjects/Formas/main.c \
- /usr/include/stdc-predef.h /usr/include/stdio.h \
+CMakeFiles/Formas.dir/opciones_menu/opciones_menu_principal.c.o: \
+ /home/pruden/CLionProjects/Formas/opciones_menu/opciones_menu_principal.c \
+ /usr/include/stdc-predef.h \
+ /home/pruden/CLionProjects/Formas/opciones_menu/opciones_menu_principal.h \
+ /home/pruden/CLionProjects/Formas/formas/forma.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -48,6 +51,8 @@ CMakeFiles/Formas.dir/main.c.o: /home/pruden/CLionProjects/Formas/main.c \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /home/pruden/CLionProjects/Formas/formas/circunferencia.h \
  /home/pruden/CLionProjects/Formas/formas/forma.h \
- /home/pruden/CLionProjects/Formas/opciones_menu/opciones_menu_principal.h \
- /home/pruden/CLionProjects/Formas/formas/forma.h
+ /home/pruden/CLionProjects/Formas/formas/cuadrado.h \
+ /home/pruden/CLionProjects/Formas/formas/pentagono.h \
+ /home/pruden/CLionProjects/Formas/formas/triangulo_equi.h
